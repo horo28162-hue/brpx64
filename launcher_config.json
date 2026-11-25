@@ -1,0 +1,49 @@
+{
+    "project_name": "Brilliant RP",
+    "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
+    "background_url": "",
+    "urls": {
+                 "cdn": "https://6942f009858f5.xvest5.ru/brilliant-cdn/",
+                 "donate": "https://",
+                 "форум": "https://nightshadow2517-bot.github.io/brpsite77/",
+                 "support": "https://",
+                 "телеграмма": "https://",
+                 "vk": "https://",
+                 "discord": "https://discord.gg/NPYe7rRDY",
+                 "privacy": "https://"
+             },
+    "серверы": [
+                    {
+                        "имя": "БРИЛЛИАНТНАЯ RP | 01",
+                        "ip": "5.181.187.57",
+                        "порт": 7937,
+                        "x2": true,
+                        "онлайн": 38,
+                        "maxonline": 1000
+                    }
+                ],
+    "новости": [
+                 {
+                     "title": "Добро пожаловать на Brilliant RP!",
+                     "изображение": "",
+                     "text": "Добро пожаловать на Brilliant RP!",
+                     "дата": "2026-11-01"
+                 },
+                 {
+                     "title": "Жмите на 3 точки справа, укажите ник,затем нажмите кнопку!",
+                     "изображение": "",
+                     "текст": "",
+                     "дата": "2026-11-01"
+                 }
+             ],
+    "кэш": {
+                  "enabled": true,
+                  "api_url": "https://www.dropbox.com/scl/fi/1j6yprnebwj02fdgs3sod/api-summer-2026-10-31.json?rlkey=nos0n5hm5u54n6tj7kb4x4al1&st=4lmkngc9&dl=1",
+                  "files_url": "https://www.dropbox.com/scl/fi/9d4esl6386y3olj7fkl5h/Brilliant.zip?rlkey=448tq3tjdgdnjmm4n8bzt1fig&st=7wwmyy9r&dl=1"
+              },
+    "версия": {
+                    "code": 612622272,
+                    "name": "1.0.0",
+                    "apk_url": ""
+                }
+}
